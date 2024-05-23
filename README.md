@@ -26,7 +26,7 @@ source venv/bin/activate # for Linux/Mac
 ```
 
 ```sh
-cd <main-project-folder>
+cd coding_assignment
 ```
 
 ```sh
